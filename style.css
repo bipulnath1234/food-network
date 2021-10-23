@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#header{
+    display: flex;
+}
+.header-part{
+    width: 50%;
+   padding-left: 5%;
+}
+.text-color{
+    color: orange;
+}
+.link-color{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-color: red;
+    border-radius: 20px;
+
+    
+    
+
+}
+h1{
+    font-size: 50px;
+    height: 10px;
+
+}
+h2{
+    font-size: 50px;
+   height: 10px;
+}
+h3{
+    font-size: 50px;
+}
+.header-part img{
+    height: 500px;
+}
